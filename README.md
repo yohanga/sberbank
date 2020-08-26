@@ -1,6 +1,5 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
 
 # Laravel sberbank bank acquiring library.
 Библиотека для приема платежей через интернет для Сбербанк.
