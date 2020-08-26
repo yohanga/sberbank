@@ -25,6 +25,6 @@
         "ext-json": "*"
     },
     "autoload": {
-        "psr-4": { "Xnf4o\\": "src" }
+        "psr-4": { "xnf4o\\": "src" }
     }
 }
