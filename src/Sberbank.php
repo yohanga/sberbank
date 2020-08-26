@@ -10,7 +10,7 @@
  * @author Evgeniy Gerasimov <xnf4o@inbox.ru>
  */
 
-namespace Xnf4o;
+namespace xnf4o;
 
 use Illuminate\Support\Facades\Log;
 
