@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/xnf4o/sberbank/v/stable)](https://packagist.org/packages/xnf4o/sberbank) [![Total Downloads](https://poser.pugx.org/xnf4o/sberbank/downloads)](https://packagist.org/packages/xnf4o/sberbank) [![License](https://poser.pugx.org/xnf4o/sberbank/license)](https://packagist.org/packages/xnf4o/sberbank)
+[![Latest Stable Version](https://poser.pugx.org/xnf4o/sberbank/v/stable)](https://packagist.org/packages/xnf4o/sberbank) [![Total Downloads](https://poser.pugx.org/xnf4o/sberbank/downloads)](https://packagist.org/packages/xnf4o/sberbank) [![License](https://poser.pugx.org/xnf4o/sberbank/license)](https://packagist.org/packages/xnf4o/sberbank) [![BCH compliance](https://bettercodehub.com/edge/badge/xnf4o/sberbank?branch=master)](https://bettercodehub.com/)
 
 # Laravel sberbank bank acquiring library.
 Библиотека для приема платежей через интернет для Сбербанк.
